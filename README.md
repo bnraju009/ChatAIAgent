@@ -25,7 +25,7 @@ mvn spring-boot:run
 curl --location 'http://localhost:8080/agent/chat' \
 --header 'Content-Type: application/json' \
 --data '{
-    "message": "What is confidential computing?"
+    "message": "Can you write a Hello world for java?"
 }'
 
 ```
