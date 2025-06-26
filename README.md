@@ -1,5 +1,4 @@
-# ChatAIAgent
-# Spring Boot 3 GEN AI PoC
+# ChatAIAgent Spring Boot 3 GEN AI PoC
 Simple generative AI Agent using OpenAPI model
 
 Create account with OpenAPI:
