@@ -1,4 +1,4 @@
-# ChatAI Agent PoC
+# ChatAI Agent PoC and Updated
 Simple generative AI Agent using OpenAPI model
 
 Create account with OpenAPI:
